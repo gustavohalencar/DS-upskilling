@@ -15,8 +15,8 @@ Handle missing values, non-numeric values, data leakage, and more.
 5-Day Gen AI Intensive Course with Google - Originally held live from March 31 to April 4, 2025, this program is now available as a self-paced learning guide for anyone interested in exploring the fundamental technologies and techniques behind Generative AI.
 
 ### :file_folder: Agentic AI - [DeepLearning.AI](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
-Module 1: Introduction to Agentic Workflows
-Module 2: Reflection Design Pattern
-Module 3: Tool use
-Module 4: Practical Tips for Building Agentic AI
-Module 5: Patterns for Highly Autonomous Agents
+Module 1: Introduction to Agentic Workflows  
+Module 2: Reflection Design Pattern  
+Module 3: Tool use  
+Module 4: Practical Tips for Building Agentic AI  
+Module 5: Patterns for Highly Autonomous Agents  
